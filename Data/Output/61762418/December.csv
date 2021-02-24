@@ -1,0 +1,2 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+255910,"IT Support",2017-12-03,43231,8646.2,51877.2,USD
